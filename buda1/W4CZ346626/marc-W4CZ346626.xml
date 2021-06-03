@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02400nam a22003613ia4500</marc:leader>
+    <marc:controlfield tag="001">(BDRC)bdr:W4CZ346626</marc:controlfield>
+    <marc:controlfield tag="006">m     o  d        </marc:controlfield>
+    <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+    <marc:controlfield tag="008">210603s2013    xx |||||||||| 000 ||tibod</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(BDRC)bdr:W4CZ346626</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">NNC</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">NNC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="066" ind1=" " ind2=" ">
+      <marc:subfield code="c">Tibt</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">My crazy tale /</marc:subfield>
+      <marc:subfield code="c">Lja phan bod kyi shes rig bslab sbyang gi tshogs pa che ba.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Hariyana, india :</marc:subfield>
+      <marc:subfield code="b">Drukpa publication,</marc:subfield>
+      <marc:subfield code="c">2013.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="b">txt</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer</marc:subfield>
+      <marc:subfield code="b">c</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">online resource</marc:subfield>
+      <marc:subfield code="b">cr</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="v">Part1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="546" ind1=" " ind2=" ">
+      <marc:subfield code="a">In Tibetan;</marc:subfield>
+      <marc:subfield code="b">Tibetan Script script.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="506" ind1="1" ind2=" ">
+      <marc:subfield code="a">Access restricted to a few sample pages, access restricted in some countries.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A compilation of commentaries on " My Carazy Tale" by the Gyalwang Drukpa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="533" ind1=" " ind2=" ">
+      <marc:subfield code="a">Electronic reproduction.</marc:subfield>
+      <marc:subfield code="b">Cambridge, Mass. :</marc:subfield>
+      <marc:subfield code="c">Buddhist Digital Resource Center.</marc:subfield>
+      <marc:subfield code="n">Available via World Wide Web.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="588" ind1=" " ind2=" ">
+      <marc:subfield code="a">Description based on online resource (BDRC, viewed June 3, 2021)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" ">
+      <marc:subfield code="a">Instruction</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Buddhist Digital Resource Center.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="720" ind1="1" ind2=" ">
+      <marc:subfield code="6">880-01</marc:subfield>
+      <marc:subfield code="a">ʼjigs med padma dbang chen / ʼbrug chen 12 ʼjigs med padma dbang chen, 1963-</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://purl.bdrc.io/resource/W4CZ346626</marc:subfield>
+      <marc:subfield code="z">Available from BDRC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="880" ind1="1" ind2=" ">
+      <marc:subfield code="6">720-01</marc:subfield>
+      <marc:subfield code="a">འཇིགས་མེད་པདྨ་དབང་ཆེན། / འབྲུག་ཆེན ༡༢་འཇིགས་མེད་པདྨ་དབང་ཆེན།, 1963-</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

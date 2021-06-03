@@ -1,0 +1,15 @@
+{
+  "id" : "bdr:W00KG010084",
+  "type" : [ "DigitalInstance", "ImageInstance", "Instance" ],
+  "instanceHasVolume" : [ "bdr:I00KG010123", "bdr:I00KG010124", "bdr:I00KG010122" ],
+  "instanceOf" : "bdr:WA00KG010084",
+  "instanceReproductionOf" : "bdr:MW00KG010084",
+  "isRoot" : true,
+  "itemVolumes" : 3,
+  "scanInfo" : {
+    "@language" : "en",
+    "@value" : "Processed at Tibetan Buddhist Resource Center, 150 West 17th St, New York City, NY 10011, US. Comments: 2008"
+  },
+  "tmp:thumbnailIIIFService" : "https://iiif.bdrc.io/bdr:I00KG010122::I00KG0101220003.jpg",
+  "@context" : "http://purl.bdrc.io/context.jsonld"
+}

@@ -1,0 +1,22 @@
+<work:work xmlns:work="http://www.tbrc.org/models/work#" RID="W3CN21529" status="released">
+    <work:title type="bibliographicalTitle">rgyan gyi bstan bcos dbyangs can ngag gi rol mtsho/</work:title>
+    <work:title encoding="native" lang="chinese" type="copyrightPageTitle">诗镜注释妙音戏海</work:title>
+    <work:hasPubInfo info="MW3CN21529"/>
+    <work:archiveInfo access="fairUse" distribution="tbrc" license="copyright" restriction="copyright" vols="1"/>
+    <work:creator person="P313"> bstan 'dzin chos kyi nyi ma </work:creator>
+    <work:subject class="T204" type="isInstanceOfGenre">snyan ngag </work:subject>
+    <work:catalogInfo encoding="native" lang="english">A comentary on Dandin's Kavyadarsha by the fourth Khamtrul Tenzin Chokyi Nyima (1730-1780).</work:catalogInfo>
+    <work:scanInfo>Scanned or acquired in Tibetan areas of China by BDRC.</work:scanInfo>
+    <work:volumeMap>
+        <work:volume imagegroup="I3CN21779" num="1"/>
+    </work:volumeMap>
+    <work:log>
+        <entry when="2019-10-09T10:56:34.421Z" who="Chungdak Nangpa">cataloged</entry>
+        <entry when="2019-11-25T08:45:46.454Z" who="Chungdak Nangpa">full cataloged</entry>
+        <entry when="2019-12-06T15:43:02.057Z" who="Chungdak Nangpa">added info</entry>
+        <entry when="2019-12-06T15:43:27.604Z" who="Chungdak Nangpa">added volumeMap for scan request</entry>
+        <entry when="2020-11-02T20:41:38.144Z" who="works-update-scaninfo-from-list">
+                    updated works scanned in China scanInfo
+                </entry>
+    </work:log>
+</work:work>

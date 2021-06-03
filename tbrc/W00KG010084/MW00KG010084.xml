@@ -1,0 +1,21 @@
+<pubinfo:pubinfo xmlns:pubinfo="http://www.tbrc.org/models/pubinfo#" RID="MW00KG010084" status="released">
+    <pubinfo:isPubInfoFor work="W00KG010084">kun gzigs rgyal dbang lnga pa'i gsang ba rgya can dpe ris dang bcas pa </pubinfo:isPubInfoFor>
+    <pubinfo:encoding>In Tibetan</pubinfo:encoding>
+    <pubinfo:publisherName>[s.n.]</pubinfo:publisherName>
+    <pubinfo:publisherLocation>[s.l.]</pubinfo:publisherLocation>
+    <pubinfo:publisherDate>[n.d.]</pubinfo:publisherDate>
+    <pubinfo:printType type="dbuCan"/>
+    <pubinfo:extent>3 v.</pubinfo:extent>
+    <pubinfo:illustrations>ills.</pubinfo:illustrations>
+    <mw:hollis xmlns:mw="http://www.tbrc.org/models/pubinfo#">014254031</mw:hollis>
+    <pubinfo:tbrcHoldings>tbrc holds digitally scanned images, tiffs and pdf files; scanned for preservation purposes only; not for distribution</pubinfo:tbrcHoldings>
+    <pubinfo:biblioNote>hand written dbu chen manuscript; volume no. 3 is all illustrations</pubinfo:biblioNote>
+    <pubinfo:log>
+        <entry when="2008-07-08T11:56:38.808Z" who="Karma Gongde"/>
+        <entry when="2008-07-08T12:00:10.575Z" who="Karma Gongde">cataloged and released</entry>
+        <entry when="2008-07-10T16:03:07.275Z" who="Karma Gongde"/>
+        <entry when="2013-06-05T09:24:40.314Z" who="Jigme Namgyal">added print type</entry>
+        <entry when="2014-04-21T20:30:13.577-04:00" who="Jeff Wallman">normalize encoding field for pub info</entry>
+        <entry when="2015-01-05T12:22:13.356-05:00" who="Code Ferret">added hollis field to pub info</entry>
+    </pubinfo:log>
+</pubinfo:pubinfo>

@@ -1,0 +1,36 @@
+<work:work xmlns:work="http://www.tbrc.org/models/work#" RID="W00KG010084" status="released">
+    <work:title encoding="extendedWylie" lang="tibetan" type="bibliographicalTitle">kun gzigs rgyal dbang lnga pa'i gsang ba rgya can dpe ris dang bcas pa </work:title>
+    <work:title encoding="extendedWylie" lang="tibetan" type="titlePageTitle">kun gzigs rgyal dbang lnga pa'i dag snang rgya can rnam thar rgya can ma bur grags pa ris mo dang bcas pa </work:title>
+    <work:title encoding="native" lang="english" type="otherTitle">secret visionary autobiography of the fifth dalai lama </work:title>
+    <work:title encoding="extendedWylie" lang="tibetan" type="otherTitle">gsang ba rgya can dpe ris dang bcas pa</work:title>
+    <work:creator person="P37" type="hasMainAuthor"> ngag dbang blo bzang rgya mtsho </work:creator>
+    <work:subject class="T1868" type="isInstanceOfGenre">gsang ba'i rnam thar </work:subject>
+    <work:subject class="T1CZ60" type="isInstanceOfGenre">rang rnam </work:subject>
+    <work:subject class="T805">dag snang </work:subject>
+    <work:subject class="T00AG01246" type="isAboutUncontrolled">dag snang rgya can </work:subject>
+    <work:subject class="P37" type="isAboutPerson"> ngag dbang blo bzang rgya mtsho </work:subject>
+    <work:hasPubInfo info="MW00KG010084"/>
+    <work:archiveInfo access="restrictedSealed" distribution="tbrc" license="ccby" restriction="tradition" status="scanned" vols="3"/>
+    <work:scanInfo>Processed at Tibetan Buddhist Resource Center, 150 West 17th St, New York City, NY 10011, US.
+Comments: 2008</work:scanInfo>
+    <work:catalogInfo encoding="native" lang="english">Illustrated manuscript of the secret autobiographical visions of the the Dalai Lama 05 Ngawang Lobzang Gyatso (1617-1682). The third volume of the handwritten text is entirely illustrations.</work:catalogInfo>
+    <work:volumeMap>
+        <work:volume imagegroup="I00KG010122" num="1"/>
+        <work:volume imagegroup="I00KG010123" num="2"/>
+        <work:volume imagegroup="I00KG010124" num="3"/>
+    </work:volumeMap>
+    <work:note>digital images of a manuscript set in the oriental institute in st. petersburg</work:note>
+    <work:log>
+        <entry when="2008-07-08T11:56:28.209Z" who="Karma Gongde"/>
+        <entry when="2008-07-08T12:00:09.343Z" who="Karma Gongde">cataloged and released</entry>
+        <entry when="2008-07-10T16:03:05.291Z" who="Karma Gongde"/>
+        <entry when="2008-07-16T11:56:06.507Z" who="Karma Gongde"/>
+        <entry when="2008-07-16T11:57:25.085Z" who="Karma Gongde">added volumeMap for scan request</entry>
+        <entry when="2008-07-16T12:05:38.010Z" who="Karma Gongde"/>
+        <entry when="2009-01-27T12:27:54.731Z" who="Gene Smith">published</entry>
+        <entry when="2013-06-05T09:27:19.298Z" who="Jigme Namgyal">added print type</entry>
+        <entry when="2014-04-21T19:05:36.322-04:00" who="Jeff Wallman">normalized catalog info</entry>
+        <entry when="2014-05-17T07:18:37.731-04:00" who="Jeff Wallman">normalized catalog info</entry>
+        <entry when="2015-04-01T15:18:25.132Z" who="Michael R. Sheehy">edited classifications</entry>
+    </work:log>
+</work:work>

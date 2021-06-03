@@ -1,0 +1,27 @@
+<work:work xmlns:work="http://www.tbrc.org/models/work#" RID="W1KG23747" status="released">
+    <work:title type="bibliographicalTitle">sgrol ma nyer gcig gi bstod pa rnam 'grel/</work:title>
+    <work:hasPubInfo info="MW1KG23747"/>
+    <work:archiveInfo access="restrictedInChina" distribution="physical" license="ccby" restriction="none" vols="1"/>
+    <w:inProduct xmlns:w="http://www.tbrc.org/models/work#" pid="PR1CTC17">TBRC Core Text Collection 17</w:inProduct>
+    <work:info/>
+    <work:creator person="P2KG2757">dpal dgyes pa rdo rje/</work:creator>
+    <work:subject class="T132" type="isInstanceOfGenre">'grel pa </work:subject>
+    <work:subject class="T744" type="isAboutUncontrolled">sgrol ma nyer gcig  </work:subject>
+    <work:catalogInfo encoding="native" lang="english">Commentary on praise to twenty-one manifestation of goddess Tara.</work:catalogInfo>
+    <work:scanInfo>Scanned at M/S Satluj Infotech Images, E-45, Sector 27 Noida, District Gautam Buddha Nagar, U.P. 201301 via New Delhi, IN for the Tibetan Buddhist Resource Center, 150 17th st., New York, NY 10011, U.S.A 2006.</work:scanInfo>
+    <work:volumeMap>
+        <work:volume imagegroup="I4CZ354289" num="1"/>
+    </work:volumeMap>
+    <work:log>
+        <entry when="2016-06-01T16:54:05.559Z" who="Karma Gongde">provision</entry>
+        <entry when="2017-02-07T15:20:56.180Z" who="Karma Gongde">changed to accessioned</entry>
+        <entry when="2017-09-21T15:59:27.521Z" who="Karma Gongde">added topics</entry>
+        <entry when="2019-08-05T12:01:11.931Z" who="Kelsang Lhamo">released</entry>
+        <entry when="2019-08-05T12:13:19.820Z" who="Kelsang Lhamo">added volumeMap for scan request</entry>
+        <entry when="2020-06-03T12:37:39.996Z" who="Karma Gongde">added author</entry>
+        <entry when="2020-06-17T14:18:30.613Z" who="Code Ferret">changed access to restrictedInChina</entry>
+        <entry when="2020-08-18T17:48:57.698Z" who="add-works-to-PR1CTC17">
+                    added Work to CTC 17
+                </entry>
+    </work:log>
+</work:work>

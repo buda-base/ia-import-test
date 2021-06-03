@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02400nam a22003613ia4500</marc:leader>
+    <marc:controlfield tag="001">(BDRC)bdr:W00KG010084</marc:controlfield>
+    <marc:controlfield tag="006">m     o  d        </marc:controlfield>
+    <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+    <marc:controlfield tag="008">210603nuuuuuuuuxx |||||||||| 000 ||tibod</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="z">014254031</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(BDRC)bdr:W00KG010084</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">NNC</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">NNC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="066" ind1=" " ind2=" ">
+      <marc:subfield code="c">Tibt</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="6">880-01</marc:subfield>
+      <marc:subfield code="a">Kun gzigs rgyal dbang lnga paʼi dag snang rgya can rnam thar rgya can ma bur grags pa ris mo dang bcas pa.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="1" ind2="3">
+      <marc:subfield code="6">880-02</marc:subfield>
+      <marc:subfield code="a">Gsang ba rgya can dpe ris dang bcas pa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="1" ind2="3">
+      <marc:subfield code="a">Secret visionary autobiography of the fifth dalai lama</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+      <marc:subfield code="b">[publisher not identified],</marc:subfield>
+      <marc:subfield code="c">[date of publication not identified]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="b">txt</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer</marc:subfield>
+      <marc:subfield code="b">c</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">online resource</marc:subfield>
+      <marc:subfield code="b">cr</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="546" ind1=" " ind2=" ">
+      <marc:subfield code="a">In Tibetan;</marc:subfield>
+      <marc:subfield code="b">Uchen script.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Hand written dbu chen manuscript volume no. 3 is all illustrations.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="506" ind1="1" ind2=" ">
+      <marc:subfield code="a">Access restricted.</marc:subfield>
+      <marc:subfield code="f">No online access</marc:subfield>
+      <marc:subfield code="2">star.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Illustrated manuscript of the secret autobiographical visions of the the Dalai Lama 05 Ngawang Lobzang Gyatso (1617-1682). The third volume of the handwritten text is entirely illustrations.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="533" ind1=" " ind2=" ">
+      <marc:subfield code="a">Electronic reproduction.</marc:subfield>
+      <marc:subfield code="b">Cambridge, Mass. :</marc:subfield>
+      <marc:subfield code="c">Buddhist Digital Resource Center.</marc:subfield>
+      <marc:subfield code="n">Available via World Wide Web.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="542" ind1="1" ind2=" ">
+      <marc:subfield code="l">Public domain</marc:subfield>
+      <marc:subfield code="u">http://creativecommons.org/publicdomain/mark/1.0/</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="588" ind1=" " ind2=" ">
+      <marc:subfield code="a">Description based on online resource (BDRC, viewed June 3, 2021)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" ">
+      <marc:subfield code="a">Dalai Lama 05 Ngawang Lobzang Gyatso</marc:subfield>
+      <marc:subfield code="a">Dag snang rgya can</marc:subfield>
+      <marc:subfield code="a">Visionary experiences</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Buddhist Digital Resource Center.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="720" ind1="1" ind2=" ">
+      <marc:subfield code="6">880-03</marc:subfield>
+      <marc:subfield code="a">Ngag dbang blo bzang rgya mtsho / Tā laʼi bla ma 05 ngag dbang blo bzang rgya mtsho, 1617-1682,</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://purl.bdrc.io/resource/W00KG010084</marc:subfield>
+      <marc:subfield code="z">Available from BDRC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="880" ind1="0" ind2="0">
+      <marc:subfield code="6">245-01</marc:subfield>
+      <marc:subfield code="a">ཀུན་གཟིགས་རྒྱལ་དབང་ལྔ་པའི་དག་སྣང་རྒྱ་ཅན་རྣམ་ཐར་རྒྱ་ཅན་མ་བུར་གྲགས་པ་རིས་མོ་དང་བཅས་པ།.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="880" ind1="1" ind2="3">
+      <marc:subfield code="6">246-02</marc:subfield>
+      <marc:subfield code="a">གསང་བ་རྒྱ་ཅན་དཔེ་རིས་དང་བཅས་པ།</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="880" ind1="1" ind2=" ">
+      <marc:subfield code="6">720-03</marc:subfield>
+      <marc:subfield code="a">ངག་དབང་བློ་བཟང་རྒྱ་མཚོ། / ཏཱ་ལའི་བླ་མ ༠༥་ངག་དབང་བློ་བཟང་རྒྱ་མཚོ།, 1617-1682,</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

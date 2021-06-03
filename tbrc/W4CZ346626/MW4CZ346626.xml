@@ -1,0 +1,18 @@
+<pubinfo:pubinfo xmlns:pubinfo="http://www.tbrc.org/models/pubinfo#" RID="MW4CZ346626" status="released">
+    <pubinfo:isPubInfoFor work="W4CZ346626">smyon pa'i snying gi ri mo/</pubinfo:isPubInfoFor>
+    <pubinfo:publisherName encoding="native" lang="english">drukpa publication</pubinfo:publisherName>
+    <pubinfo:publisherLocation encoding="native" lang="english">hariyana, india</pubinfo:publisherLocation>
+    <pubinfo:publisherDate>2013</pubinfo:publisherDate>
+    <pubinfo:isbn>9380362168</pubinfo:isbn>
+    <pubinfo:authorshipStatement encoding="extendedWylie" lang="tibetan">lja phan bod kyi shes rig bslab sbyang gi tshogs pa che ba</pubinfo:authorshipStatement>
+    <pubinfo:extent>5 v.  (at the moment tbrc holds 1st volume only)</pubinfo:extent>
+    <pubinfo:illustrations>Illustrted </pubinfo:illustrations>
+    <pubinfo:seriesName encoding="native" lang="english">my crazy tale</pubinfo:seriesName>
+    <pubinfo:seriesNumber>part1</pubinfo:seriesNumber>
+    <pubinfo:tbrcHoldings>tbrc holds digitally scanned images, tiffs and pdf files</pubinfo:tbrcHoldings>
+    <pubinfo:biblioNote encoding="native" lang="english">copy made available from the library of tibetan works and archives; ltwa acc. no.D33097</pubinfo:biblioNote>
+    <pubinfo:log>
+        <entry when="2019-07-01T10:53:23.311Z" who="Kelsang Lhamo">new catalog</entry>
+        <entry when="2019-07-01T11:59:19.164Z" who="Kelsang Lhamo">added more info</entry>
+    </pubinfo:log>
+</pubinfo:pubinfo>

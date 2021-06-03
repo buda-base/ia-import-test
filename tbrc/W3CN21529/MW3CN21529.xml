@@ -1,0 +1,18 @@
+<pubinfo:pubinfo xmlns:pubinfo="http://www.tbrc.org/models/pubinfo#" RID="MW3CN21529" status="released">
+    <pubinfo:isPubInfoFor work="W3CN21529"/>
+    <pubinfo:publisherName encoding="extendedWylie" lang="tibetan">bod ljongs bod yig dpe rnying dpe skrun khang /</pubinfo:publisherName>
+    <pubinfo:publisherLocation encoding="extendedWylie" lang="tibetan">lha sa/</pubinfo:publisherLocation>
+    <pubinfo:publisherDate>2018</pubinfo:publisherDate>
+    <pubinfo:printType type="computerInput"/>
+    <pubinfo:isbn>9787570002290</pubinfo:isbn>
+    <pubinfo:encoding>In Tibetan</pubinfo:encoding>
+    <pubinfo:extent>7, 6, 24, 713 p.</pubinfo:extent>
+    <pubinfo:seriesName encoding="extendedWylie" lang="tibetan">gangs can rig mdzod/</pubinfo:seriesName>
+    <pubinfo:seriesNumber>2</pubinfo:seriesNumber>
+    <pubinfo:tbrcHoldings>tbrc holds digitally scanned images, tiffs and pdf files; scanned for preservation purposes only; not for distribution</pubinfo:tbrcHoldings>
+    <pubinfo:log>
+        <entry when="2019-10-09T10:56:34.078Z" who="Chungdak Nangpa">cataloged</entry>
+        <entry when="2019-11-25T08:45:46.454Z" who="Chungdak Nangpa">full cataloged</entry>
+        <entry when="2019-12-06T15:43:01.847Z" who="Chungdak Nangpa">added info</entry>
+    </pubinfo:log>
+</pubinfo:pubinfo>

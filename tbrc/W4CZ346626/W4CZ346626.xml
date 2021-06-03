@@ -1,0 +1,24 @@
+<work:work xmlns:work="http://www.tbrc.org/models/work#" RID="W4CZ346626" status="released">
+    <work:title type="bibliographicalTitle">smyon pa'i snying gi ri mo/</work:title>
+    <work:title encoding="native" lang="english" type="otherTitle">my crazy tale</work:title>
+    <work:hasPubInfo info="MW4CZ346626"/>
+    <work:archiveInfo access="restrictedInChina" distribution="tbrc" license="copyright" restriction="copyright" vols="5"/>
+    <work:creator person="P854"> 'jigs med pad+ma dbang chen/ </work:creator>
+    <work:subject class="T58" type="isInstanceOfGenre">zhal gdams/ </work:subject>
+    <work:subject class="T297" type="isInstanceOfGenre">dus deb </work:subject>
+    <work:catalogInfo encoding="native" lang="english">A compilation of commentaries on " My Carazy Tale" by the Gyalwang Drukpa</work:catalogInfo>
+    <work:scanInfo>Scanned at M/S Satluj Infotech Images, E-45, Sector 27 Noida, District Gautam Buddha Nagar, U.P. 201301 via New Delhi, IN for the Tibetan Buddhist Resource Center, 150 17th st., New York, NY 10011, U.S.A 2006.</work:scanInfo>
+    <work:volumeMap>
+        <work:volume imagegroup="I4CZ346779" num="1"/>
+        <work:volume imagegroup="I4CZ346780" num="2"/>
+        <work:volume imagegroup="I4CZ346781" num="3"/>
+        <work:volume imagegroup="I4CZ346782" num="4"/>
+        <work:volume imagegroup="I4CZ346783" num="5"/>
+    </work:volumeMap>
+    <work:log>
+        <entry when="2019-07-01T10:53:34.575Z" who="Kelsang Lhamo">new catalog</entry>
+        <entry when="2019-07-01T11:04:51.650Z" who="Kelsang Lhamo">added volumeMap for scan request</entry>
+        <entry when="2019-07-01T11:59:21.069Z" who="Kelsang Lhamo">added more info</entry>
+        <entry when="2020-06-17T14:18:30.613Z" who="Code Ferret">changed access to restrictedInChina</entry>
+    </work:log>
+</work:work>

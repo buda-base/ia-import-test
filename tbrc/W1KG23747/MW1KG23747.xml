@@ -1,0 +1,20 @@
+<pubinfo:pubinfo xmlns:pubinfo="http://www.tbrc.org/models/pubinfo#" RID="MW1KG23747" status="released">
+    <pubinfo:isPubInfoFor work="W1KG23747">sgrol ma nyer gcig gi bstod pa rnam 'grel/ </pubinfo:isPubInfoFor>
+    <pubinfo:publisherName encoding="extendedWylie" lang="tibetan">kan su'u mi rigs dpe skrun khang /</pubinfo:publisherName>
+    <pubinfo:publisherLocation encoding="extendedWylie" lang="tibetan">lan gru'u/</pubinfo:publisherLocation>
+    <pubinfo:publisherDate>2009</pubinfo:publisherDate>
+    <pubinfo:printType type="computerInput"/>
+    <pubinfo:isbn>9787542115768</pubinfo:isbn>
+    <pubinfo:authorshipStatement encoding="extendedWylie" lang="tibetan">mkhan chen bla ma dpal dgyes pa rdo rje/</pubinfo:authorshipStatement>
+    <pubinfo:encoding>In Tibetan</pubinfo:encoding>
+    <pubinfo:extent>181 p.</pubinfo:extent>
+    <pubinfo:tbrcHoldings>tbrc holds digitally scanned images, tiffs and pdf files</pubinfo:tbrcHoldings>
+    <pubinfo:editionStatement encoding="extendedWylie" lang="tibetan">par gzhi dang po/ par thengs dang po/</pubinfo:editionStatement>
+    <pubinfo:biblioNote encoding="native" lang="english">copy made available from the library of tibetan works and archives; ltwa acc. no. 011708</pubinfo:biblioNote>
+    <pubinfo:log>
+        <entry when="2016-06-01T16:53:57.617Z" who="Karma Gongde">provision</entry>
+        <entry when="2017-09-21T15:59:21.260Z" who="Karma Gongde">added topics</entry>
+        <entry when="2019-08-05T12:01:01.056Z" who="Kelsang Lhamo">released</entry>
+        <entry when="2020-06-03T12:37:39.549Z" who="Karma Gongde">added author</entry>
+    </pubinfo:log>
+</pubinfo:pubinfo>

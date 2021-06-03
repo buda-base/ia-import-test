@@ -1,0 +1,74 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>     nam a22     5i 4500</leader>
+    <controlfield tag="001">W1KG23747</controlfield>
+    <controlfield tag="008">^^^^^^s2009^^^^xx^^^^^^^^^^^|||||||tib^d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+        <subfield code="z">9787542115768</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+        <subfield code="a">MaCbTBRC</subfield>
+        <subfield code="c">MaCbTBRC</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+        <subfield code="6">880-01</subfield>
+        <subfield code="a">sgrol ma nyer gcig gi bstod pa rnam 'grel/</subfield>
+        <subfield code="h">[electronic resource].</subfield>
+    </datafield>
+    <datafield tag="880" ind1="0" ind2="0">
+        <subfield code="6">245-01</subfield>
+        <subfield code="a">སྒྲོལ་མ་ཉེར་གཅིག་གི་བསྟོད་པ་རྣམ་འགྲེལ།</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" ">
+        <subfield code="a">par gzhi dang po/ par thengs dang po/</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+        <subfield code="a">Lan gru'u :</subfield>
+        <subfield code="b">Kan su'u mi rigs dpe skrun khang ,</subfield>
+        <subfield code="c">2009</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+        <subfield code="a">181 p.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+        <subfield code="a">Copy made available from the library of tibetan works and archives; ltwa acc. no. 011708.</subfield>
+    </datafield>
+    <datafield tag="506" ind1=" " ind2=" ">
+        <subfield code="a">Access restricted in some countries.</subfield>
+    </datafield>
+    <datafield tag="542" ind1="1" ind2=" ">
+        <subfield code="l">Public Domain</subfield>
+        <subfield code="u">http://creativecommons.org/publicdomain/mark/1.0/</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+        <subfield code="a">Commentary on praise to twenty-one manifestation of goddess Tara.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" ">
+        <subfield code="a">Electronic reproduction.</subfield>
+        <subfield code="b">Cambridge, Mass. :</subfield>
+        <subfield code="c">Buddhist Digital Resource Center.</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+        <subfield code="a">In Tibetan</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2=" ">
+        <subfield code="a">'grel pa/</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2=" ">
+        <subfield code="a">sgrol ma nyer gcig/</subfield>
+    </datafield>
+    <datafield tag="720" ind1="1" ind2=" ">
+        <subfield code="a">dgyes pa rdo rje//  dpal dgyes pa rdo rje/, 1978.</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+        <subfield code="t">TBRC Core Text Collection.</subfield>
+        <subfield code="g">17</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+        <subfield code="u">http://www.tbrc.org/link?RID=W1KG23747</subfield>
+        <subfield code="z">Available from TBRC</subfield>
+    </datafield>
+    <datafield tag="955" ind1=" " ind2=" ">
+        <subfield code="a">W1KG23747-I4CZ354289</subfield>
+        <subfield code="c">v.1</subfield>
+    </datafield>
+</record>

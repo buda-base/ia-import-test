@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02400nam a22003613ia4500</marc:leader>
+    <marc:controlfield tag="001">(BDRC)bdr:W3CN21529</marc:controlfield>
+    <marc:controlfield tag="006">m     o  d        </marc:controlfield>
+    <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+    <marc:controlfield tag="008">210603s2018    cc |||||||||| 000 ||tibod</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(BDRC)bdr:W3CN21529</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">NNC</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">NNC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="066" ind1=" " ind2=" ">
+      <marc:subfield code="c">Tibt</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">诗镜注释妙音戏海.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Lha sa :</marc:subfield>
+      <marc:subfield code="b">Bod ljongs bod yig dpe rnying dpe skrun khang,</marc:subfield>
+      <marc:subfield code="c">2018.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="b">txt</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer</marc:subfield>
+      <marc:subfield code="b">c</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">online resource</marc:subfield>
+      <marc:subfield code="b">cr</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="v">2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="546" ind1=" " ind2=" ">
+      <marc:subfield code="a">In Tibetan;</marc:subfield>
+      <marc:subfield code="b">Tibetan Script script.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="506" ind1="1" ind2=" ">
+      <marc:subfield code="a">Access restricted to a few sample pages.</marc:subfield>
+      <marc:subfield code="f">Preview only</marc:subfield>
+      <marc:subfield code="2">star</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="533" ind1=" " ind2=" ">
+      <marc:subfield code="a">Electronic reproduction.</marc:subfield>
+      <marc:subfield code="b">Cambridge, Mass. :</marc:subfield>
+      <marc:subfield code="c">Buddhist Digital Resource Center.</marc:subfield>
+      <marc:subfield code="n">Available via World Wide Web.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="588" ind1=" " ind2=" ">
+      <marc:subfield code="a">Description based on online resource (BDRC, viewed June 3, 2021)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" ">
+      <marc:subfield code="a">Poetics</marc:subfield>
+      <marc:subfield code="a">Snyan ngag me long</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Buddhist Digital Resource Center.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="720" ind1="1" ind2=" ">
+      <marc:subfield code="6">880-01</marc:subfield>
+      <marc:subfield code="a">Bstan ʼdzin chos kyi nyi ma / Khams sprul bstan ʼdzin chos kyi nyi ma, 1730-</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://purl.bdrc.io/resource/W3CN21529</marc:subfield>
+      <marc:subfield code="z">Available from BDRC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="880" ind1="1" ind2=" ">
+      <marc:subfield code="6">720-01</marc:subfield>
+      <marc:subfield code="a">བསྟན་འཛིན་ཆོས་ཀྱི་ཉི་མ། / ཁམས་སྤྲུལ་བསྟན་འཛིན་ཆོས་ཀྱི་ཉི་མ།, 1730-</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

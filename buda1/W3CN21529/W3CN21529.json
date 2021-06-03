@@ -1,0 +1,15 @@
+{
+  "id" : "bdr:W3CN21529",
+  "type" : [ "ImageInstance", "DigitalInstance", "Instance" ],
+  "instanceHasVolume" : "bdr:I3CN21779",
+  "instanceOf" : "bdr:WA20132",
+  "instanceReproductionOf" : "bdr:MW3CN21529",
+  "isRoot" : true,
+  "itemVolumes" : 1,
+  "scanInfo" : {
+    "@language" : "en",
+    "@value" : "Scanned or acquired in Tibetan areas of China by BDRC."
+  },
+  "tmp:thumbnailIIIFService" : "https://iiif.bdrc.io/bdr:I3CN21779::I3CN217790003.jpg",
+  "@context" : "http://purl.bdrc.io/context.jsonld"
+}

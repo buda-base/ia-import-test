@@ -1,0 +1,19 @@
+{
+  "id" : "bdr:W4CZ346626",
+  "type" : [ "DigitalInstance", "Instance", "ImageInstance" ],
+  "digitalLendingPossible" : false,
+  "instanceHasVolume" : [ "bdr:I4CZ346782", "bdr:I4CZ346781", "bdr:I4CZ346779", "bdr:I4CZ346780", "bdr:I4CZ346783" ],
+  "instanceOf" : "bdr:WA4CZ346626",
+  "instanceReproductionOf" : "bdr:MW4CZ346626",
+  "isRoot" : true,
+  "itemVolumes" : 5,
+  "scanInfo" : [ {
+    "@language" : "en",
+    "@value" : "Scanned at M/S Satluj Infotech Images, E-45, Sector 27 Noida, District Gautam Buddha Nagar, U.P. 201301 via New Delhi, India for the Buddhist Digital Resource Center."
+  }, {
+    "@language" : "en",
+    "@value" : "copy made available from the library of tibetan works and archives; ltwa acc. no.D33097"
+  } ],
+  "tmp:thumbnailIIIFService" : "https://iiif.bdrc.io/bdr:I4CZ346779::I4CZ3467790003.jpg",
+  "@context" : "http://purl.bdrc.io/context.jsonld"
+}

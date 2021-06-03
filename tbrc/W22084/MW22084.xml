@@ -1,0 +1,54 @@
+<mw:pubinfo xmlns:mw="http://www.tbrc.org/models/pubinfo#" RID="MW22084" status="released">
+    <mw:isPubInfoFor work="W22084">bka' 'gyur (sde dge par phud)</mw:isPubInfoFor>
+    <mw:publisherName encoding="extendedWylie" lang="tibetan">delhi karmapae chodhey gyalwae sungrab partun khang</mw:publisherName>
+    <mw:publisherLocation encoding="extendedWylie" lang="tibetan">delhi</mw:publisherLocation>
+    <mw:publisherDate>1976-1979</mw:publisherDate>
+    <mw:printType type="blockprint"/>
+    <mw:sourcePrintery place="G1657">sde dge par khang / </mw:sourcePrintery>
+    <mw:lcCallNumber>bq1260 1976</mw:lcCallNumber>
+    <mw:lccn>76902420</mw:lccn>
+    <mw:hollis>014258613</mw:hollis>
+    <mw:seeHarvard>010897185-6</mw:seeHarvard>
+    <mw:seeHarvard>010896047-1</mw:seeHarvard>
+    <mw:seeHarvard>010896046-3</mw:seeHarvard>
+    <mw:seeHarvard>010898038-3</mw:seeHarvard>
+    <mw:seeHarvard>010896101-X</mw:seeHarvard>
+    <mw:seeHarvard>010896012-9</mw:seeHarvard>
+    <mw:seeHarvard>010896010-2</mw:seeHarvard>
+    <mw:seeHarvard>010898037-5</mw:seeHarvard>
+    <mw:seeHarvard>010896322-5</mw:seeHarvard>
+    <mw:seeHarvard>010896050-1</mw:seeHarvard>
+    <mw:seeHarvard>010896048-X</mw:seeHarvard>
+    <mw:seeHarvard>010897920-2</mw:seeHarvard>
+    <mw:seeHarvard>010896013-7</mw:seeHarvard>
+    <mw:seeHarvard>007194410-9</mw:seeHarvard>
+    <mw:encoding>In Tibetan</mw:encoding>
+    <mw:extent>103 v.</mw:extent>
+    <mw:tbrcHoldings>1</mw:tbrcHoldings>
+    <mw:holding>
+        <mw:library code="TGA" rid="G1TLMTGA000001">rdzong sar dpe mdzod bkra shis sgo mang gong ma/</mw:library>
+        <mw:shelf copies="1">ཁ|༡|||004476</mw:shelf>
+        <mw:exception>སྡེ་དགེ་པར་ཕུད་བཀའ་འགྱུར་པོད་ ༡༠༣ ལས། འདི་ག་དཔེ་མཛོད་བཀྲ་ཤིས་སྒོ་མང་དུ་ཚང་མེད་པ་ ཤེར་ཕྱིན་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་པོད་ ཁ་པ་དང་། མདོ་སྡེ་པོད་ ཅ། ཚ། ལ། གསུམ་དང་། རྒྱུད་འབུམ་པོད་ ཕ་དང་། གཟུངས་འདུས་པོད་ ཨེ་བཅས་ཚང་མེད།(པོད་གྲངས་ ༡༠༣ ལས་པོད་གྲངས་ ༦ ཙམ་ད་ལྟ་ཚང་མེད།)</mw:exception>
+    </mw:holding>
+    <mw:log>
+        <entry when="2012-02-10T10:12:03.897Z" who="Michael R. Sheehy"/>
+        <entry when="2013-02-27T15:31:53.501Z" who="Jigme Namgyal">added print type and source printery</entry>
+        <entry when="2014-04-21T20:30:13.577-04:00" who="Jeff Wallman">normalize encoding field for pub info</entry>
+        <entry when="2014-05-02T14:19:14.334-04:00" who="Jeff Wallman">added seeHarvard to pub info</entry>
+        <entry when="2014-05-02T14:19:14.334-04:00" who="Jeff Wallman">added seeHarvard to pub info</entry>
+        <entry when="2014-05-02T14:19:14.334-04:00" who="Jeff Wallman">added seeHarvard to pub info</entry>
+        <entry when="2014-05-02T14:19:14.334-04:00" who="Jeff Wallman">added seeHarvard to pub info</entry>
+        <entry when="2014-05-02T14:19:14.334-04:00" who="Jeff Wallman">added seeHarvard to pub info</entry>
+        <entry when="2014-05-02T14:19:14.334-04:00" who="Jeff Wallman">added seeHarvard to pub info</entry>
+        <entry when="2014-05-02T14:19:14.334-04:00" who="Jeff Wallman">added seeHarvard to pub info</entry>
+        <entry when="2014-05-02T14:19:14.334-04:00" who="Jeff Wallman">added seeHarvard to pub info</entry>
+        <entry when="2014-05-02T14:19:14.334-04:00" who="Jeff Wallman">added seeHarvard to pub info</entry>
+        <entry when="2014-05-02T14:19:14.334-04:00" who="Jeff Wallman">added seeHarvard to pub info</entry>
+        <entry when="2014-05-02T14:19:14.334-04:00" who="Jeff Wallman">added seeHarvard to pub info</entry>
+        <entry when="2014-05-02T14:19:14.334-04:00" who="Jeff Wallman">added seeHarvard to pub info</entry>
+        <entry when="2014-05-02T14:19:14.334-04:00" who="Jeff Wallman">added seeHarvard to pub info</entry>
+        <entry when="2014-05-02T14:19:14.334-04:00" who="Jeff Wallman">added seeHarvard to pub info</entry>
+        <entry when="2015-01-05T12:22:13.356-05:00" who="Code Ferret">added hollis field to pub info</entry>
+        <entry when="2016-11-29T05:34:19.281Z" who="Chungdak Nangpa">changed subject T# to kanjur only</entry>
+    </mw:log>
+</mw:pubinfo>

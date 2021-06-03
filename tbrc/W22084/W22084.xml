@@ -1,0 +1,169 @@
+<w:work xmlns:w="http://www.tbrc.org/models/work#" RID="W22084" status="released">
+    <w:title encoding="extendedWylie" lang="tibetan" type="bibliographicalTitle">bka' 'gyur (sde dge par phud)</w:title>
+    <w:title encoding="libraryOfCongress" lang="english" type="coverTitle">The Sde-dge Mtshal-par Bkaʼ-ʼgyur:a facsimile edition of the 18th century redaction of Si-tu Chos-kyi-ʼbyuṅ-gnas /prepared under the direction of H.H the 16th Rgyal-dbaṅ Karma-pa.</w:title>
+    <w:info nodeType="publishedWork"/>
+    <w:creator person="P956" type="hasEditor">chos kyi 'byung gnas</w:creator>
+    <w:subject class="T2423" type="isAboutUncontrolled">bka' 'gyur/ </w:subject>
+    <w:hasPubInfo info="MW22084"/>
+    <w:archiveInfo access="openAccess" license="ccby" status="scanned" vols="103"/>
+    <w:inProduct pid="PR01UNRESTR">All Released and Unrestricted Works</w:inProduct>
+    <w:inProduct pid="PR01DOR0">Wisdom Masters Digital Library 01</w:inProduct>
+    <w:inProduct pid="PRHD01">TBRC Core Text Collection 1</w:inProduct>
+    <w:catalogInfo encoding="native" lang="english">Dege Kangyur. Facsimile of the parpud or 'first fruit' printing of the 1733 blocks, meaning it was pressed before later changes were made to the blocks. Produced under the patronage of the Dege King Tenpa Tsering. Chief editor was Palpung Tai Situ Chokyi Jungne in 1733. One of the first editions of the Tibetan canon to be widely distributed, and is almost universally praised for its clarity. Editors in India made numerous changes in preparation for this edition, printed 1976-1979.</w:catalogInfo>
+    <w:volumeMap>
+        <w:volume imagegroup="I0886" num="1"/>
+        <w:volume imagegroup="I0887" num="2"/>
+        <w:volume imagegroup="I0888" num="3"/>
+        <w:volume imagegroup="I0889" num="4"/>
+        <w:volume imagegroup="I0890" num="5"/>
+        <w:volume imagegroup="I0891" num="6"/>
+        <w:volume imagegroup="I0892" num="7"/>
+        <w:volume imagegroup="I0893" num="8"/>
+        <w:volume imagegroup="I0894" num="9"/>
+        <w:volume imagegroup="I0895" num="10"/>
+        <w:volume imagegroup="I0896" num="11"/>
+        <w:volume imagegroup="I0897" num="12"/>
+        <w:volume imagegroup="I0898" num="13"/>
+        <w:volume imagegroup="I0899" num="14"/>
+        <w:volume imagegroup="I0900" num="15"/>
+        <w:volume imagegroup="I0901" num="16"/>
+        <w:volume imagegroup="I0902" num="17"/>
+        <w:volume imagegroup="I0903" num="18"/>
+        <w:volume imagegroup="I0904" num="19"/>
+        <w:volume imagegroup="I0905" num="20"/>
+        <w:volume imagegroup="I0906" num="21"/>
+        <w:volume imagegroup="I0907" num="22"/>
+        <w:volume imagegroup="I0908" num="23"/>
+        <w:volume imagegroup="I0909" num="24"/>
+        <w:volume imagegroup="I0910" num="25"/>
+        <w:volume imagegroup="I0911" num="26"/>
+        <w:volume imagegroup="I0912" num="27"/>
+        <w:volume imagegroup="I0913" num="28"/>
+        <w:volume imagegroup="I0914" num="29"/>
+        <w:volume imagegroup="I0915" num="30"/>
+        <w:volume imagegroup="I0916" num="31"/>
+        <w:volume imagegroup="I0917" num="32"/>
+        <w:volume imagegroup="I0918" num="33"/>
+        <w:volume imagegroup="I0919" num="34"/>
+        <w:volume imagegroup="I0920" num="35"/>
+        <w:volume imagegroup="I0921" num="36"/>
+        <w:volume imagegroup="I0922" num="37"/>
+        <w:volume imagegroup="I0923" num="38"/>
+        <w:volume imagegroup="I0924" num="39"/>
+        <w:volume imagegroup="I0925" num="40"/>
+        <w:volume imagegroup="I0926" num="41"/>
+        <w:volume imagegroup="I0927" num="42"/>
+        <w:volume imagegroup="I0928" num="43"/>
+        <w:volume imagegroup="I0929" num="44"/>
+        <w:volume imagegroup="I0930" num="45"/>
+        <w:volume imagegroup="I0931" num="46"/>
+        <w:volume imagegroup="I0932" num="47"/>
+        <w:volume imagegroup="I0933" num="48"/>
+        <w:volume imagegroup="I0934" num="49"/>
+        <w:volume imagegroup="I0935" num="50"/>
+        <w:volume imagegroup="I0936" num="51"/>
+        <w:volume imagegroup="I0937" num="52"/>
+        <w:volume imagegroup="I0938" num="53"/>
+        <w:volume imagegroup="I0939" num="54"/>
+        <w:volume imagegroup="I0940" num="55"/>
+        <w:volume imagegroup="I0941" num="56"/>
+        <w:volume imagegroup="I0942" num="57"/>
+        <w:volume imagegroup="I0943" num="58"/>
+        <w:volume imagegroup="I0944" num="59"/>
+        <w:volume imagegroup="I0945" num="60"/>
+        <w:volume imagegroup="I0946" num="61"/>
+        <w:volume imagegroup="I0947" num="62"/>
+        <w:volume imagegroup="I0948" num="63"/>
+        <w:volume imagegroup="I0949" num="64"/>
+        <w:volume imagegroup="I0950" num="65"/>
+        <w:volume imagegroup="I0951" num="66"/>
+        <w:volume imagegroup="I0952" num="67"/>
+        <w:volume imagegroup="I0953" num="68"/>
+        <w:volume imagegroup="I0954" num="69"/>
+        <w:volume imagegroup="I0955" num="70"/>
+        <w:volume imagegroup="I0956" num="71"/>
+        <w:volume imagegroup="I0957" num="72"/>
+        <w:volume imagegroup="I0958" num="73"/>
+        <w:volume imagegroup="I0959" num="74"/>
+        <w:volume imagegroup="I0960" num="75"/>
+        <w:volume imagegroup="I0961" num="76"/>
+        <w:volume imagegroup="I0962" num="77"/>
+        <w:volume imagegroup="I0963" num="78"/>
+        <w:volume imagegroup="I0964" num="79"/>
+        <w:volume imagegroup="I0965" num="80"/>
+        <w:volume imagegroup="I0966" num="81"/>
+        <w:volume imagegroup="I0967" num="82"/>
+        <w:volume imagegroup="I0968" num="83"/>
+        <w:volume imagegroup="I0969" num="84"/>
+        <w:volume imagegroup="I0970" num="85"/>
+        <w:volume imagegroup="I0971" num="86"/>
+        <w:volume imagegroup="I0972" num="87"/>
+        <w:volume imagegroup="I0973" num="88"/>
+        <w:volume imagegroup="I0974" num="89"/>
+        <w:volume imagegroup="I0975" num="90"/>
+        <w:volume imagegroup="I0976" num="91"/>
+        <w:volume imagegroup="I0977" num="92"/>
+        <w:volume imagegroup="I0978" num="93"/>
+        <w:volume imagegroup="I0979" num="94"/>
+        <w:volume imagegroup="I0980" num="95"/>
+        <w:volume imagegroup="I0981" num="96"/>
+        <w:volume imagegroup="I0982" num="97"/>
+        <w:volume imagegroup="I0983" num="98"/>
+        <w:volume imagegroup="I0984" num="99"/>
+        <w:volume imagegroup="I0985" num="100"/>
+        <w:volume imagegroup="I0986" num="101"/>
+        <w:volume imagegroup="I0987" num="102"/>
+        <w:volume imagegroup="I0988" num="103"/>
+    </w:volumeMap>
+    <w:note>tbrc holds a set of scanned images, tiffs and pdf files, from the chengdu photomechanical reprint of this par phud printing.
+0886-0988.</w:note>
+    <w:note location="v. 108 p. 119-120" work="W1PD96682">སྡེ་དགེ་《བཀའ་འགྱུར་》ནི་ཁམས་སྡེ་དགེ་ཆོས་རྒྱལ་བསྟན་པ་ཚེ་རིང་གིས་སྦྱིན་བདག་མཛད་དེ་བོད་རབ་བྱུང་བཅུ་གཉིས་པའི་ས་བྱ་ ༼སྤྱི་ལོ་ ༡༧༢༩༽ ནས་ཆུ་གླང་ ༼སྤྱི་ལོ ་༡༧༣༣༽ བར་བགྲང་བྱ་ལྔའི་ངོ་མཐོང་བར་བརྩོན་པ་ཆེན་པོས་པར་དུ་བཞེངས་ཞིང་། སྡེ་དགེ་དགོན་ཆེན་ཏེ་ལྷུན་གྲུབ་སྟེང་གི་པར་ཁང་ཆོས་མཛོད་ཆེན་མོར་བཞུགས་པ་ལ་སྡེ་དགེའི་མཚལ་པར་ཞེས་ཡོངས་སུ་གྲགས༎ 《བཀའ་འགྱུར་》འདིའི་ཡི་གེའི་ཕྱི་མོ་ཇི་ལྟར་བསྡུས་པའི་ཚུལ་ནི། བོད་ཀྱི་ལོ་པཎ་མང་པོས་བརྟགས་ཤིང་དཔྱད་ནས། ཞུས་དག་མཛད་ཅིང་མཆན་བུ་སོགས་བཏབ་པ་གངས་རིའི་ལྗོངས་སུ་ཁུངས་ཐུབ་ཀྱི་ཕྱི་མོར་གྱུར་ཏེ། འཕྱིང་བ་སྟག་རྩེའི་ཕོ་བྲང་དུ་བཞུགས་པའི་ཚལ་པ་བཀའ་འགྱུར་ཕྱིས་འཇང་ཡུལ་དུ་སྤྱན་དྲངས་ནས་པར་དུ་བསྒྲུབས་པའི་འཇང་ངམ་ལི་ཐང་《བཀའ་འགྱུར་》ནི་པར་གཞི་འདིའི་མ་ཕྱི་གཙོ་བོར་བཟུང་བ་དང་དེའི་སྟེང་དུ་སྒ་ཨ་གཉན་པཀྵིའི་ཐུགས་དམ་གྱི་རྟེན་དུ་གྱུར་པ་《བཀའ་འགྱུར་》ཤིན་ཏུ་དག་པ་དང་། གཞན་ཡང་དཔེ་རྒྱུན་རྙིང་མ་ཁུངས་བཙུན་འགའ་ཞིག་ལ་གོ་སྡུར་མཛད་ཅིང་། མདོ་སྟོད་ལྷོ་རྫོང་གི་ཕོ་བྲང་དུ་བཞུགས་པའི་《བཀའ་འགྱུར་》ཡང་སྤྱན་དྲངས་ཏེ། དེ་དང་ཡང་སྒོ་བསྟུན་ནས་པར་དུ་བསྒྲུབས་པར་བཤད་དོ༎  དེ་ཡང་《བཀའ་འགྱུར་》འདིའི་ཡི་གེ་མཁན་དང་ཞུ་དག་པ་རྣམས་ཀྱི་སློབ་སྟོན་པའམ་ཞུས་ཆེན་པ་ནི། སི་ཏུ་ཆོས་ཀྱི་འབྱུང་གནས་སམ་ཀརྨ་བསྟན་པའི་ཉིན་བྱེད་གཙུག་ལག་ཆོས་ཀྱི་སྣང་བ་ཞེས་ཞུ་བ་ཡིན་ཏེ། ཁོང་གི་ཞུས་ཆེན་མཛད་ནས་དཀར་ཆག་《བདེ་བར་གཤེགས་པའི་བཀའ་གངས་ཅན་གྱི་བརྡས་དྲངས་པའི་ཕྱི་མོའི་ཚོགས་ཇི་སྙེད་པ་པར་དུ་བསྒྲུབས་པའི་ཚུལ་ལས་ཉེ་བར་བརྩམས་པའི་གཏམ་བཟང་པོ་བློ་ལྡན་མོས་པའི་ཀུནྡ་ཡོངས་སུ་ཁ་བྱེ་བའི་ཟླ་འོད་གཞོན་ནུའི་འཁྲི་ཤིང་》ཞེས་པ་མཛད་ཅིང་།དེ་ནི་《བཀའ་འགྱུར་》དཀར་ཆག་རྣམས་ལས་ཆེས་རྒྱས་པ་ཞིག་གོ༎</w:note>
+    <w:note location="ff. 3v-4r" work="W27919">སྡེ་དགེ་བཀའ་འགྱུར། མདོ་སྟོད་སྡེ་དགེ་ཆོས་རྒྱལ་བསྟན་པ་ཚེ་རིང་ ༼༡༦༧༨-༡༧༣༨༽ ནས་སྦྱིན་བདག་མཛད་ནས། ལི་ཐང་མཚལ་དཔར། སྒ་ཨ་གཉེན་པཀྵིའི་ཐུགས་དམ་རྟེན་གྱི་བཀའ་འགྱུར་ཤིན་ཏུ་དག་པ། མདོ་སྟོད་ལྷོ་རྫོང་གི་ཕོ་བྲང་དུ་བཞུགས་པའི་ཐང་པོ་ཆེའི་བཀའ་འགྱུར་སོགས་དཔེ་རྒྱུན་རྙིང་མ་ཁུངས་བཙུན་འགའ་ཞིག་གོ་བསྡུར་ནས། ༡༧༢༩ ལོར་དཔར་གཞི་གསར་བཞེངས་དབུ་བརྩམས་ནས་བགྲང་བྱ་ལྔའི་ངོ་མཐོང་ ༡༧༣༣ བར་བརྩོན་པ་ཆེན་པོས་དཀར་ཆག་ཐེ་པའི་པོད་བརྒྱ་དང་གསུམ་ལེགས་པར་བསྒྲུབས་ནས་སྡེ་དགེ་དགོན་ཆེན་ལྷུན་གྲུབ་སྟེང་གི་དཔར་ཁང་ཆོས་མཛོད་ཆེན་མོར་བཞུགས་པ་ལ་སྡེ་དགེ་མཚལ་དཔར་ཞེས་གྲགས་ཅན་དེ་བྱུང་།།</w:note>
+    <w:log>
+        <entry when="2007-04-11T17:03:51.958Z" who="Alex Gardner">annotation</entry>
+        <entry when="2007-04-11T17:06:27.480Z" who="Alex Gardner"/>
+        <entry when="2007-04-11T17:08:13.609Z" who="Alex Gardner"/>
+        <entry when="2007-06-04T09:22:39.879Z" who="Tendzin Parsons">corrected spelling</entry>
+        <entry when="2009-03-12T14:02:11.893Z" who="Jeff Wallman">added part of Wisdom Masters Digital Library</entry>
+        <entry when="2009-05-17T23:48:10.538Z" who="Jeff Wallman">made public domain</entry>
+        <entry when="2009-05-19T14:30:21.874Z" who="Jeff Wallman">public domain</entry>
+        <entry when="2010-02-09T12:46:03.313Z" who="Michael Sheehy"/>
+        <entry when="2011-04-11T13:20:09.903Z" who="Michael Sheehy">added topics</entry>
+        <entry when="2011-07-22T12:02:29.872Z" who="Morris Hopkins">publishing to test</entry>
+        <entry when="2011-11-03T12:11:31.234Z" who="Paldor">bcos</entry>
+        <entry when="2012-02-10T10:12:36.697Z" who="Michael R. Sheehy"/>
+        <entry when="2012-05-02T11:48:19.514Z" who="Jeff Wallman">fixed bib titles</entry>
+        <entry when="2012-06-06T13:15:41.339Z" who="Harry Einhorn">Using as an example for training</entry>
+        <entry when="2012-07-11T08:27:10.801Z" who="Jeff Wallman"/>
+        <entry when="2012-12-05T14:16:38.746Z" who="Harry Einhorn">testing harry's dlms</entry>
+        <entry when="2013-02-27T15:31:56.566Z" who="Jigme Namgyal">added print type and source printery</entry>
+        <entry when="2013-05-14T08:44:09.228Z" who="Jigme Namgyal">par khang gi lo rgyus mdor bsdus tsam mnan yod </entry>
+        <entry when="2013-05-21T11:07:53.645Z" who="Jigme Namgyal">added history of  par khang</entry>
+        <entry when="2014-04-21T19:05:36.322-04:00" who="Jeff Wallman">normalized catalog info</entry>
+        <entry when="2014-04-23T15:13:59.68-04:00" who="Jeff Wallman">added ALA-LC title variant from Hollis spreadsheet</entry>
+        <entry when="2014-04-23T15:13:59.68-04:00" who="Jeff Wallman">added ALA-LC title variant from Hollis spreadsheet</entry>
+        <entry when="2014-04-23T15:13:59.68-04:00" who="Jeff Wallman">added ALA-LC title variant from Hollis spreadsheet</entry>
+        <entry when="2014-04-23T15:13:59.68-04:00" who="Jeff Wallman">added ALA-LC title variant from Hollis spreadsheet</entry>
+        <entry when="2014-04-23T15:13:59.68-04:00" who="Jeff Wallman">added ALA-LC title variant from Hollis spreadsheet</entry>
+        <entry when="2014-04-23T15:13:59.68-04:00" who="Jeff Wallman">added ALA-LC title variant from Hollis spreadsheet</entry>
+        <entry when="2014-04-23T15:13:59.68-04:00" who="Jeff Wallman">added ALA-LC title variant from Hollis spreadsheet</entry>
+        <entry when="2014-04-23T15:13:59.68-04:00" who="Jeff Wallman">added ALA-LC title variant from Hollis spreadsheet</entry>
+        <entry when="2014-04-23T15:13:59.68-04:00" who="Jeff Wallman">added ALA-LC title variant from Hollis spreadsheet</entry>
+        <entry when="2014-04-23T15:13:59.68-04:00" who="Jeff Wallman">added ALA-LC title variant from Hollis spreadsheet</entry>
+        <entry when="2014-04-23T15:13:59.68-04:00" who="Jeff Wallman">added ALA-LC title variant from Hollis spreadsheet</entry>
+        <entry when="2014-04-23T15:13:59.68-04:00" who="Jeff Wallman">added ALA-LC title variant from Hollis spreadsheet</entry>
+        <entry when="2014-04-23T15:13:59.68-04:00" who="Jeff Wallman">added ALA-LC title variant from Hollis spreadsheet</entry>
+        <entry when="2014-04-23T15:13:59.68-04:00" who="Jeff Wallman">added ALA-LC title variant from Hollis spreadsheet</entry>
+        <entry when="2014-05-02T13:21:16.58-04:00" who="Jeff Wallman">removed erroneous titles from previous update</entry>
+        <entry when="2014-05-02T13:22:42.614Z" who="Jeff Wallman">added single ALA-LC back in</entry>
+        <entry when="2014-05-02T13:23:54.559Z" who="Jeff Wallman">added correct ALA-LC title</entry>
+        <entry when="2014-05-17T07:18:37.731-04:00" who="Jeff Wallman">normalized catalog info</entry>
+        <entry when="2014-10-11T09:46:19.258Z" who="Jeff Wallman">removed public domain product</entry>
+        <entry when="2014-10-15T13:57:00.715-04:00" who="Code Ferret">updated catalog info</entry>
+        <entry when="2015-03-23T01:59:55.774Z" who="John Canti"/>
+        <entry when="2015-04-10T18:21:26.109Z" who="John Canti">none</entry>
+        <entry when="2015-06-25T08:16:54.295Z" who="Jeff Wallman">changed topic relation to genre</entry>
+        <entry when="2015-08-28T13:00:51.033Z" who="Chungdak Nangpa">changed subject T# to kanjur only</entry>
+        <entry when="2019-04-12T13:00:51.033Z" who="Elie Roux">fixed weird title</entry>
+    </w:log>
+</w:work>

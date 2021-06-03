@@ -1,0 +1,17 @@
+{
+  "id" : "bdr:W29146",
+  "type" : [ "DigitalInstance", "Instance", "ImageInstance" ],
+  "digitalLendingPossible" : false,
+  "instanceHasReproduction" : "bdr:IE0OPP000654",
+  "instanceHasVolume" : "bdr:I1KG21774",
+  "instanceOf" : "bdr:WA29146",
+  "instanceReproductionOf" : "bdr:MW29146",
+  "isRoot" : true,
+  "itemVolumes" : 1,
+  "scanInfo" : {
+    "@language" : "en",
+    "@value" : "Scanned at M/S Satluj Infotech Images, E-45, Sector 27 Noida, District Gautam Buddha Nagar, U.P. 201301 via New Delhi, India for the Buddhist Digital Resource Center. Comments: 4/2015"
+  },
+  "tmp:thumbnailIIIFService" : "https://iiif.bdrc.io/bdr:I1KG21774::I1KG217740003.jpg",
+  "@context" : "http://purl.bdrc.io/context.jsonld"
+}

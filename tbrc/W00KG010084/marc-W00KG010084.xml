@@ -1,0 +1,93 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>     nam a22     5i 4500</leader>
+    <controlfield tag="001">W00KG010084</controlfield>
+    <controlfield tag="008">^^^^^^suuuu^^^^cc^^^^^^^^^^^|||||||tib^d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+        <subfield code="a">MaCbTBRC</subfield>
+        <subfield code="c">MaCbTBRC</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+        <subfield code="6">880-01</subfield>
+        <subfield code="a">kun gzigs rgyal dbang lnga pa'i dag snang rgya can rnam thar rgya can ma bur grags pa ris mo dang bcas pa </subfield>
+        <subfield code="h">[electronic resource].</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="3">
+        <subfield code="a">kun gzigs rgyal dbang lnga pa'i gsang ba rgya can dpe ris dang bcas pa </subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="3">
+        <subfield code="a">secret visionary autobiography of the fifth dalai lama </subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="3">
+        <subfield code="a">gsang ba rgya can dpe ris dang bcas pa</subfield>
+    </datafield>
+    <datafield tag="880" ind1="0" ind2="0">
+        <subfield code="6">245-01</subfield>
+        <subfield code="a">ཀུན་གཟིགས་རྒྱལ་དབང་ལྔ་པའི་དག་སྣང་རྒྱ་ཅན་རྣམ་ཐར་རྒྱ་ཅན་མ་བུར་གྲགས་པ་རིས་མོ་དང་བཅས་པ་</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+        <subfield code="a">S.l. :</subfield>
+        <subfield code="b">S.n.,</subfield>
+        <subfield code="c">[n.d.]</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+        <subfield code="a">3 v.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+        <subfield code="a">Hand written dbu chen manuscript; volume no. 3 is all illustrations.</subfield>
+    </datafield>
+    <datafield tag="506" ind1=" " ind2=" ">
+        <subfield code="a">Access restricted.</subfield>
+        <subfield code="f">No online access</subfield>
+        <subfield code="2">star</subfield>
+    </datafield>
+    <datafield tag="542" ind1="1" ind2=" ">
+        <subfield code="l">Public Domain</subfield>
+        <subfield code="u">http://creativecommons.org/publicdomain/mark/1.0/</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+        <subfield code="a">Illustrated manuscript of the secret autobiographical visions of the the Dalai Lama 05 Ngawang Lobzang Gyatso (1617-1682). The third volume of the handwritten text is entirely illustrations.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" ">
+        <subfield code="a">Electronic reproduction.</subfield>
+        <subfield code="b">Cambridge, Mass. :</subfield>
+        <subfield code="c">Buddhist Digital Resource Center.</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+        <subfield code="a">In Tibetan</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2=" ">
+        <subfield code="a">gsang ba'i rnam thar/</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2=" ">
+        <subfield code="a">rang rnam/</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2=" ">
+        <subfield code="a">dag snang/</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2=" ">
+        <subfield code="a">dag snang rgya can/</subfield>
+    </datafield>
+    <datafield tag="653" ind1=" " ind2=" ">
+        <subfield code="a">ngag dbang blo bzang rgya mtsho/</subfield>
+    </datafield>
+    <datafield tag="720" ind1="1" ind2=" ">
+        <subfield code="a">ngag dbang blo bzang rgya mtsho//  tA la'i bla ma 05 ngag dbang blo bzang rgya mtsho/, 1617-1682</subfield>
+        <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+        <subfield code="u">http://www.tbrc.org/link?RID=W00KG010084</subfield>
+        <subfield code="z">Available from TBRC</subfield>
+    </datafield>
+    <datafield tag="955" ind1=" " ind2=" ">
+        <subfield code="a">W00KG010084-I00KG010122</subfield>
+        <subfield code="c">v.1</subfield>
+    </datafield>
+    <datafield tag="955" ind1=" " ind2=" ">
+        <subfield code="a">W00KG010084-I00KG010123</subfield>
+        <subfield code="c">v.2</subfield>
+    </datafield>
+    <datafield tag="955" ind1=" " ind2=" ">
+        <subfield code="a">W00KG010084-I00KG010124</subfield>
+        <subfield code="c">v.3</subfield>
+    </datafield>
+</record>
