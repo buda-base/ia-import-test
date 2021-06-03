@@ -1,3 +1,5 @@
+<?php 
+
   // read an XML file, extract metadata by applying the xpath queries given in                                                                                          
   // $metaMap, and add the results to $metaArray                                                                                                                        
   //                                                                                                                                                                    
