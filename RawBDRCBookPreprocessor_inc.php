@@ -29,7 +29,7 @@ class RawBDRCBookPreprocessor extends RawBookPreprocessor {
       'meta/marc-{id}.xml'
                   => ['marc=http://www.loc.gov/MARC21/slim'
                              => ['//marc:datafield@tag=="506"/marc:subfield@tag=="a"'  => 'marc_506a']]
-    ];                           ];
+    ];
 
   protected $marcxmlLocation = 'meta/marc-{id}.xml';
 
@@ -48,13 +48,11 @@ class RawBDRCBookPreprocessor extends RawBookPreprocessor {
   private $restriction_to_addl_collections =
     ['openAccess'            => ['stream_only'],
      'fairUse'               => ['buddhist-digital-resource-center-restricted', 'inlibrary'],
-     'fairUseNolib'          => ['buddhist-digital-resource-center-restricted'],
      'restrictedSealed'      => ['buddhist-digital-resource-center-restricted'],
      'temporarilyRestricted' => ['buddhist-digital-resource-center-restricted'],
      'restrictedByQuality'   => ['buddhist-digital-resource-center-restricted'],
      'restrictedByTbrc'      => ['buddhist-digital-resource-center-restricted'],
      'restrictedInChina'     => ['geo_restricted']];
-     'restrictedInChinaLib'  => ['geo_restricted']];
   
   // BUDA MARCXML format
   private $marc_506a_to_addl_collections =
@@ -68,12 +66,12 @@ class RawBDRCBookPreprocessor extends RawBookPreprocessor {
        ['buddhist-digital-resource-center-restricted'],
      'Access restricted to a few sample pages, access restricted in some countries.' =>
        ['geo_restricted']
-    ]
+    ];
 
   private $marc_506a_noindex = ['Access restricted.',
      'Access restricted in some countries.',
      'Access restricted to a few sample pages, access restricted in some countries.'
-    ]
+    ];
 
   private function get_json($bookDir) {
     $fname = $bookDir . $this->bookId . ".json";
