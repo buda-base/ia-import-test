@@ -1,0 +1,15 @@
+{
+  "id" : "bdr:W1FPL1",
+  "type" : [ "ImageInstance", "DigitalInstance", "Instance" ],
+  "inCollection" : "bdr:PR1FPL01",
+  "instanceHasVolume" : "bdr:I1FPL1",
+  "instanceReproductionOf" : "bdr:MW1FPL1",
+  "isRoot" : true,
+  "itemVolumes" : 1,
+  "scanInfo" : {
+    "@language" : "en",
+    "@value" : "This manuscript was digitized at the Fragile Palm Leaves Foundation in Thailand with the generous support of Khyentse Foundation"
+  },
+  "tmp:thumbnailIIIFService" : "https://iiif.bdrc.io/bdr:I1FPL1::I1FPL10001.jpg",
+  "@context" : "http://purl.bdrc.io/context.jsonld"
+}

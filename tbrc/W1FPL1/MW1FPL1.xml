@@ -1,0 +1,11 @@
+<mw:pubinfo xmlns:mw="http://www.tbrc.org/models/pubinfo#" RID="MW1FPL1" status="released">
+    <mw:isPubInfoFor work="W1FPL1"/>
+    <mw:publisherName>Fragile Palm Leaves Foundation</mw:publisherName>
+    <mw:publisherLocation encoding="extendedWylie" lang="tibetan">Nonthaburi, Thailand</mw:publisherLocation>
+    <mw:printType type="mixed"/>
+    <mw:tbrcHoldings>1</mw:tbrcHoldings>
+    <mw:log>
+        <entry when="2016-12-06T12:04:56.810Z" who="Code Ferret">FPL Import</entry>
+        <entry when="2018-10-25T13:00:22.536Z" who="Code Ferret">testing new editor</entry>
+    </mw:log>
+</mw:pubinfo>

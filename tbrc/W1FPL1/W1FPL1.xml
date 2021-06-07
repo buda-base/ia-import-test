@@ -1,0 +1,27 @@
+<w:work xmlns:w="http://www.tbrc.org/models/work#" RID="W1FPL1" status="released">
+    <w:title lang="pali" encoding="withDiacritics">[kaccāyana?] nāmakappaṃ--nām nissayya</w:title>
+    <w:archiveInfo license="ccby" access="openAccess" vols="1"/>
+    <w:scanInfo>This manuscript was digitized at the Fragile Palm Leaves Foundation in Thailand with the generous support of Khyentse Foundation</w:scanInfo>
+    <w:info nodeType="publishedWork"/>
+    <w:hasPubInfo info="MW1FPL1"/>
+    <w:inProduct pid="PR1FPL01">Fragile Palm Leaves Project Works</w:inProduct>
+    <w:description type="remarks">Red lac. covers. Gilded leaves with vermilion band. Very good handwriting.
+</w:description>
+    <w:description type="room">3A</w:description>
+    <w:description type="id">1</w:description>
+    <w:volumeMap>
+        <w:volume imagegroup="I1FPL1" num="1"/>
+    </w:volumeMap>
+    <w:log>
+        <entry when="2016-12-06T12:04:56.810Z" who="Code Ferret">FPL Import</entry>
+        <entry when="2017-08-28T14:31:58.652Z" who="Code Ferret">
+                    added archiveInfo for FPL
+                </entry>
+        <entry when="2017-08-28T14:40:13.266Z" who="Code Ferret">
+                    added archiveInfo for FPL
+                </entry>
+        <entry when="2020-10-05T16:24:42.598Z" who="works-update-scaninfo-PR1FPL01">
+                    updated PR1FPL01 scanInfo
+                </entry>
+    </w:log>
+</w:work>

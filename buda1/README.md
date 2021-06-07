@@ -1,4 +1,4 @@
-To produce the test for work with rid `XXX` run
+To produce the test for image instance with rid `XXX` run
 
 ```sh
 mkdir XXX
